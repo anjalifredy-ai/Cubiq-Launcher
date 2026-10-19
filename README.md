@@ -1,20 +1,8 @@
 <div align="center">
 
-# 🟩 Cubiq Launcher
+# 🟩 Nexus Launcher OPTIMIZED 
 ### The Premier Minecraft: Java Edition Launcher for Android
 
-[![GitHub Release](https://img.shields.io/github/v/release/VivxKumar07/Cubiq-Launcher?style=for-the-badge&color=55FF55&logo=github)](https://github.com/VivxKumar07/Cubiq-Launcher/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/VivxKumar07/Cubiq-Launcher)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Java_Edition_1.7--1.21+-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](LICENSE)
-
-<br/>
-
-**Cubiq Launcher** is a modern, high-performance, open-source **Minecraft: Java Edition launcher for Android** designed from the ground up with an authentic, pixel-accurate PC Minecraft Launcher interface built natively in **Jetpack Compose**.
-
-Experience seamless desktop Minecraft Java on mobile with hardware-accelerated Vulkan & OpenGL ES renderers, customizable touch controls, physical gamepad support, peer-to-peer LAN multiplayer, and one-click modding.
-
-[📥 **Download Latest APK**](https://github.com/VivxKumar07/Cubiq-Launcher/releases/latest) • [✨ **Features**](#-features) • [📖 **Quick Start**](#-quick-start-guide) • [❓ **FAQ**](#-frequently-asked-questions-faq) • [🛠️ **Build from Source**](#-building-from-source)
 
 </div>
 
