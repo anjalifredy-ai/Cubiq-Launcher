@@ -26,9 +26,10 @@ jobs:
         arch: ["all", "arm", "arm64", "x86", "x86_64"]
       fail-fast: false
 
+    # Intentionally do not expose STORE_PASSWORD / KEY_PASSWORD here.
+    # The Gradle release build will fall back to the repository's debug signing config
+    # when no local .store_password.txt is present, avoiding stale GitHub signing secrets.
     env:
-      KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
-      STORE_PASSWORD: ${{ secrets.STORE_PASSWORD }}
       OAUTH_CLIENT_ID: ${{ secrets.OAUTH_CLIENT_ID }}
       CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
 
